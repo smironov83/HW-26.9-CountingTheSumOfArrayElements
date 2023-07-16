@@ -1,8 +1,6 @@
 ﻿#include <iostream>
 #include <thread>
 #include <chrono>
-#include <ctime>
-#include <cstdlib>
 
 const long N = 100000000;
 const int M = 10;
